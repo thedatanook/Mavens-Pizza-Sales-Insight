@@ -21,8 +21,8 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The Pre-Processing process utilized can be found [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Queries%20%26%20Insight/%5B01%5D%20Main%20Query.sql). 
-- An interactive Excel dashboard can be downloaded [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
+- The Pre-Processing process utilized can be found [here](https://github.com/thedatanook/Mavens-Pizza-Sales-Insight/blob/main/Queries%20%26%20Insight/%5B01%5D%20Main%20Query.sql). 
+- An interactive Excel dashboard can be downloaded [here](https://github.com/thedatanook/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
 
 # Data Structure
 
@@ -36,7 +36,7 @@ Maven Pizza Sale's database structure as seen below consists of four tables: Ord
 
 Non-vegetarian pizzas, particularly the Thai Chicken and Barbecue Chicken varieties, lead in sales, while the Brie Carre and Green Garden pizzas are the lowest performers. Garlic, tomatoes, and red onions are the most popular ingredients, with the Classic category and Large pizza size being the top choices. Peak sales occur in the afternoon, with Friday being the highest-performing day and July generating the most revenue.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be viewed [here](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be viewed [here](https://github.com/thedatanook/Mavens-Pizza-Sales-Insight/blob/main/Maven%20Pizza%20Sales%20Insight%20Dashboard.xlsx).
 
 ### Maven's Pizza Sales Dashboard
 

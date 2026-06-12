@@ -17,7 +17,7 @@ A full year of sales data from a fictitious pizza restaurant was analysed to ide
 
 The dataset consists of four tables with **48,620 records** covering a full year of pizza sales transactions.
 
-![Pizza ER Diagram](<Pizza ER Diagram.drawio.png>)
+<img width="576" height="576" alt="Pizza ER Diagram drawio" src="https://github.com/user-attachments/assets/49e81b2d-3786-4cbb-91a5-638307bb7c2d" />
 
 | Table | Description |
 |-------|-------------|
